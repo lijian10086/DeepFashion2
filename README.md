@@ -168,3 +168,5 @@ If you use the DeepFashion2 dataset in your work, please cite it as:
   year={2019}
 }
 ```
+# 李剑备注：
+1、http://dy.163.com/v2/article/detail/E7GEK38J05313F6C.html DeepFashion2数据集：87.3万对买家秀-卖家秀图像+海量标注
